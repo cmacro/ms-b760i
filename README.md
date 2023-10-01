@@ -14,7 +14,7 @@ CPU: i5-13490F.
 蓝牙：同上.   
 
 
-![info](/imgs/info01.png)
+![info](/imgs/baseinfo.png)
 
 ## PS
 
