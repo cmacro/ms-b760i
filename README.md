@@ -5,16 +5,16 @@
 
 ## 机器配置
 
-主板：铭瑄 MS-B760ITX. 
-CPU: i5-13490F. 
-显卡: AMD RX6600 8G. 
-内存: 64G DDR4 3200 32x2. 
-硬盘: SN850X 2T, SN570 500G. 
-无线网卡：AX211. 
-蓝牙：同上. 
+主板：铭瑄 MS-B760ITX.  
+CPU: i5-13490F.  
+显卡: AMD RX6600 8G.   
+内存: 64G DDR4 3200 32x2.   
+硬盘: SN850X 2T, SN570 500G.   
+无线网卡：AX211.   
+蓝牙：同上.   
 
-[](imgs/info01.png)
 
+![info](/imgs/info01.png)
 
 ## PS
 
