@@ -38,6 +38,26 @@ CPU: i5-13490F.
 ![](imgs/r123-low.png)
 
 
+## BIOS 配置
+
+- Disabled  
+- - Fast Boot
+- - VT-d
+- - CSM
+- - Intel SGX
+- - Intel Platform Trust
+- - CFG Lock
+- - Secure Boot
+- - Parallel Port
+- - Serial/COM Port
+- Enabled
+- - VT-x
+- - Above 4G decoding
+- - Hyper-Threading
+- - Execute Disable Bit
+- - EHCI/XHCI Hand-off
+- - Legacy RTC Device
+
 ## PS
 
 win10升级到win11下使用wsl折腾的半死，一气之下直接转黑苹果。 
